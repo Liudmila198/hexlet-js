@@ -1,4 +1,3 @@
 /node_modules/
 *.logx
-package.json
-package-lock.json
+
